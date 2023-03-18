@@ -1,0 +1,242 @@
+
+        /*1er bloc*/
+#bloc1{
+    background-image: url("image/maquettes/Background Page Web - Copie.jpg");
+}
+#pos1{
+    margin-top: 80px;
+}
+.h2-1{
+    font-size: 60px;
+    font-weight: bolder;
+
+}
+.point{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(224, 174, 48);
+}
+.pliens{
+    margin-top: 40px;
+}
+#lien{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 7px 15px;
+    margin-left: 25px;
+}
+#lien:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 7px 15px;
+    margin-left: 25px;
+}
+#lien_a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 7px 15px;
+    margin-left: 25px;
+    border: 2px solid rgb(224, 174, 48);
+    background-color: rgb(224, 174, 48);
+}
+.hr1{
+    color: white;
+}
+#pos2{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.h1-1{
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+}
+.p1{
+    font-size: 25px;
+    color: white;
+}
+.p2{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+
+
+
+
+
+        /*2ème bloc*/
+#bloc2{
+    background-color: white;
+}
+#pos3{
+    text-align: center;
+    margin-top: 50px;
+}
+.h2-2{
+    font-size: 70px;
+    font-weight: bolder;
+
+}
+.p3{
+    font-size: 20px;
+    font-weight: bold;
+}
+#pos4{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#centerlogo{
+    text-align: center;
+}
+/*.verti{
+   }*/
+.plogo1{
+    font-size: 50px;
+    font-weight: bold;
+    color: gray;
+
+}
+.plogo2{
+    font-size: 17px;
+}
+.hr2{
+    color: black;
+
+}
+#pos5{
+    margin-bottom: 50px;
+}
+.h2-3{
+    font-size: 30px;
+    font-weight: bold;
+}
+.h2-4{
+    font-size: 20px;
+    font-weight: bold;
+}
+.pprc1{
+    background-color: yellow;
+    width: 80%;
+}
+.pprc2{
+    background-color: yellow;
+    width: 60%;
+}
+.pprc3{
+    background-color: yellow;
+    width: 40%;
+}
+.pprc4{
+    background-color: yellow;
+    width: 90%;
+}
+.colory{
+    color: yellow;
+}
+.psaut{
+    margin-top: 30px;
+}
+
+#pos6{
+    text-align: center;
+}
+.p4{
+    font-style: italic;
+    font-size: 30px;
+}
+.p5{
+    font-size: 12px;
+    font-weight: bolder;
+    color: rgb(224, 174, 48);
+    margin-bottom: 70px;
+}
+
+.action{
+    background-color: rgb(224, 174, 48);
+}
+#carpoint{
+    background-color: black;
+    font-size: 100px;
+}
+@media screen and (Max-width:1200px){
+    .impt{
+        width: 180px;
+        height: 120px;
+    }
+}
+@media screen and (Max-width:768px){
+    .impt{
+        width: 100%;
+        height: 10%;
+        margin-bottom: 30px;
+    }
+}
+
+
+
+
+
+
+        /*3ème bloc*/
+#bloc3{
+background-color: rgb(203, 200, 200);
+}
+.h2m{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.pend{
+    color: rgb(129, 119, 119);
+}
+.pointbloc3{
+    color: rgb(224, 174, 48);
+}
+#jbloc3-1{
+    margin-bottom: 60px;
+}
+#sphoto{
+    margin-bottom: 20px;
+}
+#jbloc3-2{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+@media screen and (Max-width:991px){
+    .imgt1{
+        width: 150%;
+        height: 60px;
+        margin-bottom: 10px;
+    }
+    .imgt{
+        width: 150%;
+        height: 60px;
+        margin-bottom: 30px;
+    }
+}
+@media screen and (Max-width:768px){
+    #pos2{
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    .imgt1{
+        width: 100%;
+        height: 10%;
+        margin-bottom: 10px;
+    }
+    .imgt{
+        width: 100%;
+        height: 10%;
+        margin-bottom: 30px;
+    }
+}
+
+/*border: 2px solid black;*/
